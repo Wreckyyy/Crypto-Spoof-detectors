@@ -1,13 +1,13 @@
 # Crypto-Spoof-detectors
 
-## Prerequisites:
+## Prerequisites
 - Python version 3.12.10 or later
 - downloaded websockets and aiohttp from cmd
 
-## Integrity:
+## Integrity
 Version 4.0 features a locked logic-gate system to maintain signal purity and prevent the 'over-tuning' of Relative Strength Index filters (70-90 for Shorts / 10-30 for Buys).
 
-## Zero-Configuration Deployment:
+## Zero-Configuration Deployment
 The detector is engineered for immediate deployment with pre-validated parameters, ensuring consistent performance across different hardware environments.
 
 ## Overview
@@ -16,5 +16,5 @@ This repository contains a proprietary instrument designed to detect **order-boo
 ## The "Negative Result" Observation
 During field testing, this instrument successfully identified historical spoofing patterns. However, real-time application revealed a **latency-execution gap**. This discovery is the focus of my current working paper, exploring the physical infrastructure limitations of independent market surveillance.
 
-## Status :
+## Status
 **Working Paper in Progress:** Review of algorithmic speed and market integrity
