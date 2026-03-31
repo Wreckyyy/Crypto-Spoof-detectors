@@ -17,4 +17,4 @@ This repository contains a proprietary instrument designed to detect **order-boo
 During field testing, this instrument successfully identified historical spoofing patterns. However, real-time application revealed a **latency-execution gap**. This discovery is the focus of my current working paper, exploring the physical infrastructure limitations of independent market surveillance.
 
 ## Status :
-**Working Paper in Progress:** *Synthesizing Algorithmic Speed and Market Integrity.*
+**Working Paper in Progress:** Review of algorithmic speed and market integrity
