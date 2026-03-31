@@ -1,7 +1,7 @@
 # Crypto-Spoof-detectors
 
 ## Prerequisites:
-- Python version3.12.10 or later
+- Python version 3.12.10 or later
 - downloaded websockets and aiohttp from cmd
 
 ## Integrity:
